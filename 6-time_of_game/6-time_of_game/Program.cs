@@ -37,7 +37,7 @@ namespace time_of_game
             totalGameHour = ( endGameHour - startGameHour ) % 24;
             totalGameMinutes = ( endGameMinutes - startGameMinutes) % 60;
 
-            Console.WriteLine("O tempo do jogo foi: {0}:{1}", totalGameHour, totalGameMinutes);
+            Console.WriteLine("O tempo do jogo foi: {0}:{1} Horas", totalGameHour, totalGameMinutes);
         }
     }
 }

@@ -32,4 +32,3 @@ namespace multiple_numbers
         }
     }
 }
-

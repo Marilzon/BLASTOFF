@@ -24,4 +24,3 @@ namespace celsius_to_fahrenheit
         }
     }
 }
-

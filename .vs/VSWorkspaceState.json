@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\6-time_of_game\\6-time_of_game",
+    "\\7-only_pair\\7-only_pair",
+    "\\8-is_prime_number",
+    "\\8-is_prime_number\\8-is_prime_number"
   ],
+  "SelectedNode": "\\8-is_prime_number\\8-is_prime_number\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
